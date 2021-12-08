@@ -2,8 +2,6 @@
  		"product_id": "authorization",
  		"title": "Authorization",
  		"auth_type": "psd2",
- 		"private_groups": [],
- 		"scopes": [],
  		"status": "Production",
  		"description": "Manage access to protected API resources."
  	},
@@ -11,8 +9,6 @@
  		"product_id": "fxrates",
  		"title": "Foreign exchange rates",
  		"auth_type": "apikey",
- 		"private_groups": [],
- 		"scopes": [],
  		"status": "Production",
  		"description": "Access our latest foreign exchange rates, updated every 30 minutes."
  	},
@@ -20,11 +16,6 @@
  		"product_id": "psd2-cards",
  		"title": "PSD2 Cards",
  		"auth_type": "psd2",
- 		"private_groups": [],
- 		"scopes": [
- 			"psd2_accounts",
- 			"psd2_payments"
- 		],
  		"status": "Production",
  		"description": "List account details and transactions for branded cards issued by SEB Kort."
  	},
@@ -32,10 +23,6 @@
  		"product_id": "psd2-payments",
  		"title": "PSD2 Payment",
  		"auth_type": "psd2",
- 		"private_groups": [],
- 		"scopes": [
- 			"psd2_payments"
- 		],
  		"status": "Production",
  		"description": "Initiate payments from our customers’ accounts."
  	},
@@ -43,10 +30,6 @@
  		"product_id": "psd2-accounts",
  		"title": "PSD2 Accounts",
  		"auth_type": "psd2",
- 		"private_groups": [],
- 		"scopes": [
- 			"psd2_payments"
- 		],
  		"status": "Production",
  		"description": "Initiate payments from our customers’ accounts."
  	},
@@ -54,8 +37,6 @@
  		"product_id": "fx-base-rates-basic",
  		"title": "SEB base rates",
  		"auth_type": "apikey",
- 		"private_groups": [],
- 		"scopes": [],
  		"status": "Sandbox",
  		"description": "Access our base rates in a number of different currencies."
  	}
