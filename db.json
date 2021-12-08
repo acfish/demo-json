@@ -18,26 +18,5 @@
  		"auth_type": "psd2",
  		"status": "Production",
  		"description": "List account details and transactions for branded cards issued by SEB Kort."
- 	},
- 	{
- 		"product_id": "psd2-payments",
- 		"title": "PSD2 Payment",
- 		"auth_type": "psd2",
- 		"status": "Production",
- 		"description": "Initiate payments from our customers’ accounts."
- 	},
- 	{
- 		"product_id": "psd2-accounts",
- 		"title": "PSD2 Accounts",
- 		"auth_type": "psd2",
- 		"status": "Production",
- 		"description": "Initiate payments from our customers’ accounts."
- 	},
- 	{
- 		"product_id": "fx-base-rates-basic",
- 		"title": "SEB base rates",
- 		"auth_type": "apikey",
- 		"status": "Sandbox",
- 		"description": "Access our base rates in a number of different currencies."
- 	}
+ 	} 
  ]
