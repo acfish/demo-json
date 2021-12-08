@@ -1,22 +1,14 @@
- [{
- 		"product_id": "authorization",
- 		"title": "Authorization",
- 		"auth_type": "psd2",
- 		"status": "Production",
- 		"description": "Manage access to protected API resources."
- 	},
- 	{
- 		"product_id": "fxrates",
- 		"title": "Foreign exchange rates",
- 		"auth_type": "apikey",
- 		"status": "Production",
- 		"description": "Access our latest foreign exchange rates, updated every 30 minutes."
- 	},
- 	{
- 		"product_id": "psd2-cards",
- 		"title": "PSD2 Cards",
- 		"auth_type": "psd2",
- 		"status": "Production",
- 		"description": "List account details and transactions for branded cards issued by SEB Kort."
- 	} 
- ]
+[
+  {
+    id: 1,
+    title: "Post 1"
+  },
+  {
+    id: 2,
+    title: "Post 2"
+  },
+  {
+    id: 3,
+    title: "Post 3"
+  }
+]
